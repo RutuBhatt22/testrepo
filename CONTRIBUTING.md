@@ -1,4 +1,4 @@
-# Contributing to RutuBhatt22/LICENSE
+# Contributing to RutuBhatt22/testrepo
 
 Thank you for your interest in contributing to this project! Here are some guidelines to get you started:
 
